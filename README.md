@@ -33,7 +33,7 @@ Using Power BI, I have analyzed the bank's credit card data to generate actionab
 
 Through a deep dive into customer segments and their spending behaviors, I have identified actionable insights that will help Mitron Bank refine their credit card offerings. By tailoring features to the specific needs of each segment and focusing on reward categories, security, and sustainability, Mitron Bank can increase customer satisfaction and enhance market competitiveness.
 
-**Insights:** Click [here](https://github.com/ujjwal2131/Mitron-Bank-Credit-Card-Analysis/tree/main/Insights) to check the key insights.
+**Insights:** Click [here](https://github.com/ujjwal2131/Mitron-Bank-Credit-Card-Analysis/tree/main/Insights) to check the key insights.<br>
 **Live Power BI Dashboard:** Click [here](https://app.powerbi.com/view?r=eyJrIjoiMWRlNzNjMTItM2YwZS00N2M2LTg3YzEtNGYxYTdmZDI2ZmRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to check the live dashboard.
 
 ### Dashboard Preview <br>
