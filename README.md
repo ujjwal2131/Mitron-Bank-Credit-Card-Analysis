@@ -1,13 +1,13 @@
 # Mitron Bank Credit Card Analysis
 
 
-## Project Overview:
+## Project Overview
 
 Mitron Bank sought to better understand their diverse customer base and improve their credit card offerings in an increasingly competitive market. The task involved analyzing demographic, income, and spending data to identify key customer segments and optimize credit card features based on their preferences and behaviors. 
 
 Using Power BI, I have analyzed the bank's credit card data to generate actionable insights. These insights were translated into visualizations covering income utilization, spending habits, and customer preferences. The ultimate goal was to provide targeted recommendations to help Mitron Bank attract and retain high-value customers. The solution included a detailed segmentation analysis of Mitron Bank's customers, focusing on their age, income, occupation, and spending habits. I have provided key recommendations for product features, benefits, and marketing strategies tailored to each segment. This analysis empowered Mitron Bank to refine their offerings and engage customers more effectively.
 
-## Key Findings:
+## Key Findings
 
 - **Tech-Savvy Young Professionals (25-34):** Predominantly male, high credit card utilization (46.62%), focusing on Electronics, Travel, and Bills.
 - **Established Middle-Aged Professionals (35-45):** Balanced spending with credit card utilization of 38.78%, mainly on Groceries, Health, and Apparel.
@@ -16,7 +16,7 @@ Using Power BI, I have analyzed the bank's credit card data to generate actionab
 - **Overall Credit Card Utilization:** Young professionals and middle-aged customers show a preference for rewards-based credit card usage across various categories.
 - **Top Cities by Income Utilization:** Bengaluru and Mumbai lead in income and credit card utilization, suggesting targeted offerings in these cities.
 
-## Key Recommendations:
+## Key Recommendations
 
 - **Rewards on High-Value Categories:** Offer higher rewards on Electronics, Travel, and Dining for young professionals.
 - **Cashback for Essentials:** Provide cashback on Groceries, Health, and Utility bills for middle-aged customers.
@@ -29,9 +29,9 @@ Using Power BI, I have analyzed the bank's credit card data to generate actionab
 - **Enhanced Security:** Provide features like real-time fraud alerts, and freeze/unfreeze functionality via app.
 - **Sustainability:** Include green card options, with eco-friendly rewards or carbon offsetting features for environmentally conscious segments.
 
-## Conclusion:
+## Conclusion
 
 Through a deep dive into customer segments and their spending behaviors, I have identified actionable insights that will help Mitron Bank refine their credit card offerings. By tailoring features to the specific needs of each segment and focusing on reward categories, security, and sustainability, Mitron Bank can increase customer satisfaction and enhance market competitiveness.
 
-### Dashboard Preview:<br><br>
+### Dashboard Preview <br>
 ![Screenshot 2024-08-07 091150](https://github.com/user-attachments/assets/9ad1f24d-8da7-4746-a5a0-64113f4a058f)
