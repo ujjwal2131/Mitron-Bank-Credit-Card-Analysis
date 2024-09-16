@@ -5,7 +5,7 @@
 
 Mitron Bank sought to better understand their diverse customer base and improve their credit card offerings in an increasingly competitive market. The task involved analyzing demographic, income, and spending data to identify key customer segments and optimize credit card features based on their preferences and behaviors. 
 
-Using Power BI, I have analyzed the bank's credit card data to generate actionable insights. These insights were translated into visualizations covering income utilization, spending habits, and customer preferences. The ultimate goal was to provide targeted recommendations to help Mitron Bank attract and retain high-value customers. The solution included a detailed segmentation analysis of Mitron Bank's customers, focusing on their age, income, occupation, and spending habits. I have provided key recommendations for product features, benefits, and marketing strategies tailored to each segment. This analysis empowered Mitron Bank to refine their offerings and engage customers more effectively.
+Using Power BI, I have analyzed the bank's credit card data to generate actionable insights. These insights were translated into visualizations covering income utilization, spending habits, and customer preferences. The ultimate goal was to provide targeted recommendations to help Mitron Bank attract and retain high-value customers. The solution included a detailed segmentation analysis of Mitron Bank's customers, focusing on their age, income, occupation, and spending habits. I have provided key recommendations for product features, benefits, and marketing strategies tailored to each segment. This analysis is expected to empower Mitron Bank to refine their offerings and engage customers more effectively.
 
 ## Key Findings
 
