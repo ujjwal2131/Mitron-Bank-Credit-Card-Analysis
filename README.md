@@ -36,5 +36,7 @@ Through a deep dive into customer segments and their spending behaviors, I have 
 **Insights:** Click [here](https://github.com/ujjwal2131/Mitron-Bank-Credit-Card-Analysis/tree/main/Insights) to check the key insights.<br>
 **Live Power BI Dashboard:** Click [here](https://app.powerbi.com/view?r=eyJrIjoiNWI4Njk0MWItYThjMi00MjM3LWI5ZjQtNTMwNGUxODJkOWI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to check the live dashboard.
 
+For more details about the project click [here](https://codebasics.io/challenge/codebasics-resume-project-challenge/11).
+
 ### Dashboard Preview <br>
 ![Screenshot 2024-08-07 091150](https://github.com/user-attachments/assets/9ad1f24d-8da7-4746-a5a0-64113f4a058f)
