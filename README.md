@@ -1,4 +1,4 @@
-# Mitron Bank Credit Card Analysis
+# Strategic Intel for Mitron Bank's New Credit Card Offering
 
 
 ## Project Overview
@@ -33,7 +33,7 @@ Using Power BI, I have analyzed the bank's credit card data to generate actionab
 
 Through a deep dive into customer segments and their spending behaviors, I have identified actionable insights that will help Mitron Bank refine their credit card offerings. By tailoring features to the specific needs of each segment and focusing on reward categories, security, and sustainability, Mitron Bank can increase customer satisfaction and enhance market competitiveness.
 
-**Insights:** Click [here](https://github.com/ujjwal2131/Mitron-Bank-Credit-Card-Analysis/tree/main/Insights) to check the key insights.<br>
+**Insights:** Click [here](https://github.com/ujjwal2131/Strategic-Intel-for-Mitron-Bank-s-New-Credit-Card-Offering/tree/main/Insights) to check the key insights.<br>
 **Live Power BI Dashboard:** Click [here](https://app.powerbi.com/view?r=eyJrIjoiNWI4Njk0MWItYThjMi00MjM3LWI5ZjQtNTMwNGUxODJkOWI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to check the live dashboard.
 
 For more details about the project click [here](https://codebasics.io/challenge/codebasics-resume-project-challenge/11).
